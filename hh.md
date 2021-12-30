@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Raghad-th 
-Madahus4
-/
-ARABIC-POEMS-USING-NLP
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-ARABIC-POEMS-USING-NLP/Arabic_Poems_report.md
-@Madahus4
-Madahus4 Update Arabic_Poems_report.md
-Latest commit d4c560f on Nov 21
- History
- 1 contributor
-68 lines (57 sloc)  2.24 KB
-   
+
 # Abstract
 The main focus of this project is develop an Arabic poems topic modeling to predict the correct phase of poems that can correctly classify the topic.
 
@@ -73,36 +46,28 @@ The datase that will be used in this project has been downloaded from [here]( ht
 
 
 ## Tools:
-* Software Platform :Jupyter Notebook
-* Programming Language: Python
-* Python Libraries:
-  * Statistics libraries:
-  * Sklearn
-  * nltk
-* Data manipulation libraries:
-  * Pandas
-  * Numpy
-  * byArabic package
-  * camel tool
-* Visualization libraries
-  * Matplotlib
-  * Seaborn
-* Storage libraries
-  * Pickle
+	•	Software Platform :Jupyter Notebook
+	•	Programming Language: Python
+	•	Python Libraries:
+	◦	Statistics libraries:
+	◦	Sklearn
+	◦	nltk
+	◦	SpaCy
+	•	Data manipulation libraries:
+	◦	Pandas
+	◦	Numpy
+	◦	byArabic package
+	◦	camel tool
+	•	Visualization libraries
+	◦	Matplotlib
+	◦	Seaborn
+	◦	wordcloud
+	•	Storage libraries
+	◦	Pickle
+
     
 
     
     
     
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
