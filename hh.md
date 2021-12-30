@@ -44,6 +44,27 @@ The datase that will be used in this project has been downloaded from [here]( ht
 - PCA to easily visualize clustering
 - TSNE
 
+## Tools:
+
+•	Software Platform :Jupyter Notebook
+•	Programming Language: Python
+•	Python Libraries:
+◦	Statistics libraries:
+◦	Sklearn
+◦	nltk
+◦	SpaCy
+•	Data manipulation libraries:
+◦	Pandas
+◦	Numpy
+◦	byArabic package
+◦	camel tool
+•	Visualization libraries
+◦	Matplotlib
+◦	Seaborn
+◦	wordcloud
+•	Storage libraries
+◦	Pickle
+
 
 ## Tools:
 	•	Software Platform :Jupyter Notebook
