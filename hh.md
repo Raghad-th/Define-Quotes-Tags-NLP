@@ -49,14 +49,14 @@ The datase that will be used in this project has been downloaded from [here]( ht
 •	Software Platform :Jupyter Notebook
 •	Programming Language: Python
 •	Python Libraries:
-◦	Statistics libraries:
-◦	Sklearn
-◦	nltk
-◦	SpaCy
+ ◦	Statistics libraries:
+ ◦	Sklearn
+ ◦	nltk
+ ◦	SpaCy
 •	Data manipulation libraries:
-◦	Pandas
-◦	Numpy
-◦	byArabic package
+ ◦	Pandas
+ ◦	Numpy
+ ◦	byArabic package
 ◦	camel tool
 •	Visualization libraries
 ◦	Matplotlib
@@ -70,9 +70,9 @@ The datase that will be used in this project has been downloaded from [here]( ht
 	•	Software Platform :Jupyter Notebook
 	•	Programming Language: Python
 	•	Python Libraries:
-	◦	Statistics libraries:
-	◦	Sklearn
-	◦	nltk
+	 ◦	Statistics libraries:
+	 ◦	Sklearn
+	 ◦	nltk
 	◦	SpaCy
 	•	Data manipulation libraries:
 	◦	Pandas
